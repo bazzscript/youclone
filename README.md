@@ -1,16 +1,35 @@
 # youclone
 
-A new Flutter project.
+A DEKTOP MUSIC SOFTWARE UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+DEVELOPMENT PLATFORM - LINUX
+SUPPORTED PLATFORMS - LINUX, WINDOWS, MACOS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## DESKTOP SCREENSHOTS
+![DEVELOPMENT LAPTOP FULL SCREENSHOT](https://github.com/bazzscript/youclone/blob/master/assets/screenshots/1.png)
 
-For help getting started with Flutter, view our
+### 2
+![DEVELOPMENT LAPTOP FULL SCREENSHOT](https://github.com/bazzscript/youclone/blob/master/assets/screenshots/2.png)
+
+## HIGHLY REPONSIVE
+
+![DEVELOPMENT LAPTOP FULL SCREENSHOT](https://github.com/bazzscript/youclone/blob/master/assets/screenshots/3.png)
+
+### 4
+![DEVELOPMENT LAPTOP FULL SCREENSHOT](https://github.com/bazzscript/youclone/blob/master/assets/screenshots/4.png)
+
+### 5
+![DEVELOPMENT LAPTOP FULL SCREENSHOT](https://github.com/bazzscript/youclone/blob/master/assets/screenshots/5.png)
+
+
+
+
+
+
+
+For help getting started with Flutter, view flutte
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
